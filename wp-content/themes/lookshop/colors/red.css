@@ -1,0 +1,185 @@
+a{
+	color: #dc304b;
+}
+
+#twi_auth{
+	color: #dc304b;
+}
+
+#twidget{
+	background: url("red/twitter_ico.png") no-repeat left center;
+}
+
+#hidden_menu ul li a:hover{
+	color:#dc304b;
+}
+
+#hidden_menu ul li ul{
+	border-top:2px solid #dc304b;
+}
+
+#srch_form{
+	border-bottom-color: #dc304b;
+}
+
+#cart_icon{
+	background: url("red/cart_ico.png") no-repeat center center;
+}
+
+#shade{
+	background-color: #dc304b;
+}
+
+.featured_products li h3 a:hover{
+	color: #dc304b;
+}
+
+.pricedisplay{
+	color: #dc304b;
+}
+
+.coupons_widget .promo{
+	color: #dc304b;
+}
+
+.coupons_widget .sale_end #the_code{
+	color: #dc304b;
+}
+
+span.sale{
+	background: url("red/sale_ic.png") no-repeat  center center;
+}
+
+.textwidget b{
+	color: #dc304b;
+}
+
+.footer_lower .wysija-instruct b{
+	color: #dc304b;
+}
+
+#main_menu ul li a:hover, #main_menu ul li.current-menu-item a, #main_menu ul li a.selected{
+	background: url("red/m_but_lt.png") no-repeat left center;
+}
+
+#main_menu ul li a:hover span, #main_menu ul li.current-menu-item a span, #main_menu ul li a.selected span{
+	background: url("red/m_but_b.png") no-repeat right center;	
+}
+
+.sub-menu li a:hover span, .sub-menu li a.selected span{
+	color:#dc304b !important;
+}
+
+button, .button,  input.button2,  button.reverse:hover, .button.reverse:hover, .newer-older a{
+	background: url(red/btns.png) 303px -369px;
+}
+
+button span, .button span,  input.button2 span, button.reverse:hover span, .button.reverse:hover span, .newer-older a span{
+	background: url(red/btns.png) 100% -335px;
+}
+
+
+button:hover, .button:hover,   input.button2:hover, button.reverse, .button.reverse{
+	background: url(red/btns.png) 304px -301px;
+}
+
+button:hover span, .button:hover span,  input.button2:hover span, button.reverse span, .button.reverse span{
+	background: url(red/btns.png) 100% -267px;
+}
+
+.button-2, .newer-older a, #cancel-comment-reply-link, #filters li{
+	background: url(red/btns.png) 303px -171px;
+} 
+
+.button-2 span, .newer-older a span, #cancel-comment-reply-link span, #filters li span{
+	background: url(red/btns.png) 100% -139px;
+	color: #313131;
+}
+
+.button-2:hover, .newer-older a:hover, #cancel-comment-reply-link:hover, #filters li:hover, #filters li.selected{
+	background: url(red/btns.png) 304px -235px;
+}
+
+.button-2:hover span, .newer-older a:hover span, #cancel-comment-reply-link:hover span, #filters li:hover span, #filters li.selected span{
+	background: url(red/btns.png) 100% -203px;
+	
+}
+
+.button-3{
+	background: url(red/btns.png) 305px -35px;
+}
+
+.button-3 span{
+	background: url(red/btns.png) 100% 0px;
+	color: #313131;
+}
+
+.button-3:hover{
+	background: url(red/btns.png) 305px -105px;
+}
+
+.button-3:hover span{
+	background: url(red/btns.png) 100% -70px;	
+}
+
+.footer_lower .wysija-submit{
+	background: url("red/sb_but.png") no-repeat center center;
+}
+
+#plate h5{
+	color:#dc304b;
+}
+
+.box ul li:hover a{
+	color:#dc304b !important;
+}
+
+.box ul li:hover {
+	list-style: url(red/box_li_hov.png) !important;
+	color:#dc304b !important;
+	list-style-position: inside !important;
+	
+}
+
+.box li:hover .pricedisplay{
+	color: #dc304b !important;
+}
+
+#wpec-slider .about h1{
+	color: #dc304b;
+}
+
+#wpec-slider .buyit input.wpsc_buy_button {
+	background-image:none !important;
+	background-color: #dc304b;
+}
+
+.single_product_display h2{
+	color: #dc304b !important;
+}
+
+.zommer-plus{
+	background: url("red/or_plus.png") no-repeat center center;
+}
+
+.zommer-line{
+	background-color:#dc304b;
+}
+
+.post-indent .heading h2 a:hover{
+	color:#dc304b;
+}
+
+#gallery-1 .gallery-caption{
+	background-color: #dc304b !important;
+}
+
+@media only screen and (max-width: 479px) {
+	.chrome {
+		border-bottom:#dc304b 2px solid;
+	}
+	
+	#responsive_main_menu{
+		background-color:#dc304b;
+	}
+}

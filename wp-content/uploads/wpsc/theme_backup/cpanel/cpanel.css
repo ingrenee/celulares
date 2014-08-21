@@ -1,0 +1,125 @@
+#cpanel{
+	position: fixed;
+	top: 100px;
+	right: -156px;
+	width: 156px;
+	z-index: 10000;
+}
+
+#cp_holder{
+	position:relative;
+	background-color:#fff; 
+}
+
+#cp_icon{
+	width: 42px;
+	height: 42px;
+	position: absolute;
+	top:0;
+	left:-42px;
+	background: url('img/cp_icon.png') center center;
+	cursor: pointer;
+}
+
+.cp_heading{
+	border-top: #e2e2e2 1px solid;
+	border-bottom: : #e2e2e2 2px solid;
+	background-color: #e8e8e8;
+	color: #000;
+	text-transform:uppercase ;
+	height: 41px;
+	text-align: center;
+	line-height: 38px;
+}
+
+#cp_reset{
+	width: 125px;
+	height: 42px;
+	background: url('img/cp_reset.png') center center;
+	cursor: pointer;
+	margin: 10px auto;
+}
+
+.bbox{
+	width: 35px;
+	height: 35px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-bottom: 7px;
+	cursor: pointer;
+	
+}
+
+#cp_container{
+	background-color: #fff;
+	border: #f6f6f6 1px solid;
+}
+
+#cp_colors{
+	margin-top: 10px;
+	border-bottom: #e7e7e7 1px solid;
+	padding-bottom: 10px;
+}
+
+#cp_patterns{
+	margin-top: 10px;
+}
+
+.cp_title{
+	text-align: center;
+	color: #000;
+	margin-top: 10px;
+}
+
+#cp_yellow{
+	background: url('img/cp_yellow.png') center center;
+}
+
+#cp_blue{
+	background: url('img/cp_blue.png') center center;
+}
+
+#cp_pink{
+	background: url('img/cp_pink.png') center center;
+}
+
+#cp_emerald{
+	background: url('img/cp_emerald.png') center center;
+}
+
+#cp_violet{
+	background: url('img/cp_violet.png') center center;
+}
+
+#cp_red{
+	background: url('img/cp_red.png') center center;
+}
+
+
+
+
+#cp_dots{
+	background: url('img/cp_dots.png') center center;
+}
+
+#cp_mosaic{
+	background: url('img/cp_mosaic.png') center center;
+}
+
+#cp_mram{
+	background: url('img/cp_mram.png') center center;
+}
+
+#cp_ribs{
+	background: url('img/cp_ribs.png') center center;
+}
+
+#cp_pixels{
+	background: url('img/cp_pixels.png') center center;
+}
+
+#cp_waves{
+	background: url('img/cp_waves.png') center center;
+}
+
+

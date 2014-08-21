@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <title>WPEC Slider</title>
+
+    <!-- jQuery (required) -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+    <link href='http://fonts.googleapis.com/css?family=PT+Serif:400italic|PT+Sans:400italic,700italic' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="css/wpec-slider.css">
+    <script src="js/jquery.easing.1.2.js"></script>
+    <script src="js/jquery.transform2d.js"></script>
+    <script src="js/jquery.wpec-slider.js"></script>
+
+    <script>
+        $(function () {
+            $('#wpec-slider').sashSlider({
+                 autoplay:0
+            });
+        });
+    </script>
+
+</head>
+
+<body id="simple">
+<div id="wpec-slider" style="margin: 0 auto">
+    <ul>
+        <li style="background: url('images/back1.jpg') 0 0 no-repeat;"><a class="product-image" href="#1"><img title="" alt="" src="images/item1.png"></a>
+            <div class="about">
+                <a class="product-name" href="#1"><h1 style="color:#a5262b">Elegant gold shoes</h1></a>
+                <div class="description" style="color: #5f4018">A pair of alluring and stylish shoes that will
+                    perfectly compliment your style
+                </div>
+                <a href="#" class="button addtocart">Add to bag</a>
+                <span class="price">$84.00</span>
+            </div>
+        </li>
+
+        <li style="background: url('images/back2.jpg') 0 0 no-repeat;"><a class="product-image" href="#2"><img title="" alt="" src="images/item2.png"></a>
+            <div class="about">
+                <a class="product-name" href="#2"><h1 style="color:#a5262b">Leather female shoes</h1></a>
+                <div class="description" style="color: #5f4018">These eye-catching nullam convallis volutpat ullamcorper. Pellentesque vel metus malesuada enim
+                </div>
+                <a href="#" class="button addtocart">Add to bag</a>
+                <span class="price">$95.00</span>
+            </div>
+        </li>
+
+        <li style="background: url('images/back3.jpg') 0 0 no-repeat;"><a class="product-image" href="#3"><img title="" alt="" src="images/item3.png"></a>
+            <div class="about">
+                <a class="product-name" href="#3"><h1 style="color:#a5262b">High heels pump shoes</h1></a>
+                <div class="description" style="color: #5f4018">Pump up your style with lorem ipsum dolor sit amet. Duis aliquam sodales fringilla
+                </div>
+                <a href="#" class="button addtocart">Add to bag</a>
+                <span class="price">$86.00</span>
+            </div>
+        </li>
+
+        <li style="background: url('images/back4.jpg') 0 0 no-repeat;"><a class="product-image" href="#4"><img title="" alt="" src="images/item3.png"></a>
+            <div class="about">
+                <a class="product-name" href="#4"><h1 style="color:#a5262b">Beige high heels pump shoes</h1></a>
+                <div class="description" style="color: #5f4018">Unleash your sexiness with these mauris sit amet neque risus. Morbi pulvinar ante lacus, a rhoncus leo
+                </div>
+                <a href="#" class="button addtocart">Add to bag</a>
+                <span class="price">$98.00</span>
+            </div>
+        </li>
+    </ul>
+    <a href="#" class="prev">prev</a>
+    <a href="#" class="next">next</a>
+</div>
+</body>
+
+</html>
